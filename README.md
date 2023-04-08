@@ -5,6 +5,7 @@ pixel stretch effect with css
 
 ## Live link 
 
+https://peter-kimanzi.github.io/pixel-stretch-effect/
 
 ## Screenshots
 ![pix](https://user-images.githubusercontent.com/71552773/230717436-1f1f3e57-234b-4339-a558-b6fa3d8fe400.PNG)
